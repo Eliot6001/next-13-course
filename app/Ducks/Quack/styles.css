@@ -1,5 +1,6 @@
-body app div#ducks{
-    background-image: url("./duckbg.jpg");
+
+.duck{
+    background: url(./duckbg.jpg);
     object-fit:contain;
     width: 100%;
     height: 100%;

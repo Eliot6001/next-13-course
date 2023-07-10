@@ -1,10 +1,11 @@
 import React from 'react'
-import BooksR from '../../components/books.jsx'
-export function eeeeeeee() {
+import BooksComponent from '../../components/BooksComponent.jsx'
+function Books() {
   return (
 
     <div>
-        <BooksR></BooksR>
+        <BooksComponent></BooksComponent>
     </div>
   )
 }
+export default Books;

@@ -6,7 +6,7 @@ export const metadata = {
     keywords: "Ducks, Waterfowl, Birdwatching, Wildlife, Feathered Friends, Duck Species, Duck Behavior, Duck Conservation, Pond Life, Wetlands, Duck Migration, Duck Anatomy, Next.js Development, Front-end Framework, React, Server-side Rendering, JavaScript, Web Development, Component-based Architecture, Scalability"
   }/*Keywords generated using chatGPT */
 const Ducks = () => {
-    
+
   return (
     <div className="flex flex-col space-y-5 text-base ">
       {" "}
