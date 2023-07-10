@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "description": "A novel by F. Scott Fitzgerald",
+    "author": "F. Scott Fitzgerald",
+    "price": 9.99,
+    "link": "https://www.amazon.com/Great-Gatsby-Original-Fitzgerald-Classic/dp/B093MYWTT5/ref=sr_1_6?keywords=The+Great+Gatsby&qid=1688668649&sr=8-6"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "description": "A novel by Harper Lee",
+    "author": "Harper Lee",
+    "price": 8.99,
+    "link": "https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0060935464/ref=sr_1_1?crid=2G9RRUX2THYFP&keywords=to+kill+a+mockingbird&qid=1688668705&sprefix=to+kill+a+%2Caps%2C326&sr=8-1"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "description": "A novel by Jane Austen",
+    "author": "Jane Austen",
+    "price": 7.99,
+    "link": "https://www.amazon.com/Pride-Prejudice-Jane-Austen/dp/0141439513/ref=sr_1_4?crid=22UBIKHOOAVFY&keywords=Pride+and+Prejudice&qid=1688668721&sprefix=to+kill+a+mockingbird%2Caps%2C917&sr=8-4"
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "description": "A dystopian novel by George Orwell",
+    "author": "George Orwell",
+    "price": 6.99,
+    "link": "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?keywords=george+orwell+dystopian+novel+1984&qid=1688668790&sprefix=A+dystopian+novel+geo%2Caps%2C192&sr=8-1"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "description": "A novel by J.D. Salinger",
+    "author": "J.D. Salinger",
+    "price": 5.99,
+    "link": "https://www.amazon.com/Catcher-Rye-J-D-Salinger/dp/0316769177/ref=sr_1_1?crid=32WGE181ZOJ4G&keywords=The+Catcher+in+the+Rye&qid=1688668805&sprefix=george+orwell+dystopian+novel+1984%2Caps%2C984&sr=8-1"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "The first book in the Harry Potter series",
+    "author": "J.K. Rowling",
+    "price": 10.99,
+    "link": "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-MinaLima/dp/1338596705/ref=sr_1_5?crid=89FKDOJ3DP4K&keywords=Harry+Potter+and+the+Sorcerer%27s+Stone&qid=1688668828&sprefix=the+catcher+in+the+rye%2Caps%2C754&sr=8-5"
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings",
+    "description": "A fantasy novel by J.R.R. Tolkien",
+    "author": "J.R.R. Tolkien",
+    "price": 12.99,
+    "link": "https://www.amazon.com/J-R-R-Tolkien-4-Book-Boxed-Set/dp/0345538374/ref=sr_1_3?crid=1UEQUY1YMWLY7&keywords=The+Lord+of+the+Rings+book&qid=1688668853&sprefix=the+lord+of+the+rings+boo%2Caps%2C212&sr=8-3"
+  },
+  {
+    "id": 8,
+    "title": "To the Lighthouse",
+    "description": "A novel by Virginia Woolf",
+    "author": "Virginia Woolf",
+    "price": 9.99,
+    "link": "https://www.amazon.com/Lighthouse-Virginia-Woolf/dp/0156907399/ref=sr_1_2?crid=2N6A7T531AENC&keywords=To+the+Lighthouse&qid=1688668871&sprefix=to+the+lighthouse%2Caps%2C504&sr=8-2"
+  },
+  {
+    "id": 9,
+    "title": "Moby-Dick",
+    "description": "A novel by Herman Melville",
+    "author": "Herman Melville",
+    "price": 11.99,
+    "link": "https://www.amazon.com/Moby-Wordsworth-Classics-Herman-Melville/dp/1853260088/ref=sr_1_5?crid=3IWSCYZLDOP9X&keywords=moby-dick&qid=1688668887&sprefix=moby-d%2Caps%2C423&sr=8-5"
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "description": "A novel by Paulo Coelho",
+    "author": "Paulo Coelho",
+    "price": 8.99,
+    "link": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005/ref=sr_1_1?crid=32GQ2XD8VSH6W&keywords=The+alchemist&qid=1688668902&sprefix=the+a%2Caps%2C579&sr=8-1"
+  }
+]
